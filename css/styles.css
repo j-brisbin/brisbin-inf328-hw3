@@ -1,0 +1,46 @@
+#hideShowDiv{
+    background-color: #66b7ff;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    color: #FFF;
+}
+
+#fadeInDiv{
+    background-color: #ff8040;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    color: #FFF;
+}
+
+#fadeOutDiv{
+    background-color: #ff5700;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    color: #FFF;
+}
+
+#slideDiv{
+    display: inline-block;
+    margin-bottom: 20px;
+    overflow: visible;
+    border: 1px ridge red;
+}
+
+#slideInner{
+    position: relative;
+    border: 1px ridge black;
+    overflow: visible;
+    width: 100px;
+    height: 100px;
+}
+
+.testImage{
+    top: 0;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+
